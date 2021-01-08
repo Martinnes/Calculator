@@ -8,6 +8,7 @@ public class Calculator {
         String arg1 = args[0];
         String arg2 = args[1];
 
+
         
         System.out.println(arg1 + "+" + arg2 + "=" + Integer.parseInt(arg1)+Integer.parseInt(arg2));
     }
