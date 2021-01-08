@@ -1,5 +1,3 @@
-package java;
-
 public class Calculator {
     public static void main(String[] args) {
         int a = Integer.parseInt(args[0]);
