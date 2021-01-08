@@ -1,4 +1,4 @@
 #!/bin/bash
-cd src/java
+cd src
 javac Calculator.java
 java Calculator 1 2
